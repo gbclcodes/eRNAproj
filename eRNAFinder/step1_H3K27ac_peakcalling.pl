@@ -35,4 +35,4 @@ foreach my $sample (@samples){
 	}
 }
 
-# perl fig1a_step2_H3K27ac_peakcalling.pl --inputdir /public/ZhangJinLab/project_enhancer/H3K27acData/bowtie2file --outputdir /public/ZhangJinLab/project_enhancer/H3K27acData/macs2file
+# perl step2_H3K27ac_peakcalling.pl --inputdir /public/ZhangJinLab/project_enhancer/H3K27acData/bowtie2file --outputdir /public/ZhangJinLab/project_enhancer/H3K27acData/macs2file

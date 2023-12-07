@@ -79,4 +79,4 @@ foreach my $sample_p1 (@samples){
     }
 }					
 
-# perl fig1a_step1_ATAC_alignment.pl --atacsamplefile /public/ZhangJinLab/project_enhancer/ncbi-ATAC-seq-xiewei/ATAC_run2samplename.txt --inputdir /public/ZhangJinLab/project_enhancer/ncbi-ATAC-seq-xiewei --outputdir /public/ZhangJinLab/project_enhancer/ATACfile --indexdir /public/ZhangJinLab/project_erv/refAnno/bowtie2Index/GRCm38 --picarddir /software/picard-2.18.2 --bowtie2dir bowtie2file --threads 2
+# perl step1_ATAC_alignment.pl --atacsamplefile /public/ZhangJinLab/project_enhancer/ncbi-ATAC-seq-xiewei/ATAC_run2samplename.txt --inputdir /public/ZhangJinLab/project_enhancer/ncbi-ATAC-seq-xiewei --outputdir /public/ZhangJinLab/project_enhancer/ATACfile --indexdir /public/ZhangJinLab/project_erv/refAnno/bowtie2Index/GRCm38 --picarddir /software/picard-2.18.2 --bowtie2dir bowtie2file --threads 2

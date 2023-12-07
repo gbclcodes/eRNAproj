@@ -35,6 +35,5 @@ foreach my $fastafile (@fastafiles){
 	}
 }
 
-# perl fig2b_step3.pl --inputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/GSR --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/GSR --motifdir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE
-
-# perl fig2b_step3.pl --inputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/XW --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/XW --motifdir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE
+# perl step3.pl --inputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/GSR --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/GSR --motifdir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE
+# perl step3.pl --inputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/XW --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/XW --motifdir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE

@@ -27,4 +27,4 @@ foreach my $memefile (@memefiles){
 }
 close OUT;
 
-# perl fig2b_step4.pl --indir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE/ --outfile /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE_ID_to_NAME.txt
+# perl step4.pl --indir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE/ --outfile /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE_ID_to_NAME.txt

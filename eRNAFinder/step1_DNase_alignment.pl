@@ -69,4 +69,4 @@ foreach my $sample (@samples){
 	}
 }
 
-# perl fig1a_step1_DNase_alignment.pl --inputdir /public/ZhangJinLab/project_enhancer/ncbi-DNase-seq-lufalong --outputdir /public/ZhangJinLab/project_enhancer/DNasefile --indexdir /public/ZhangJinLab/project_erv/refAnno/bowtie2Index/GRCm38 --picarddir /software/picard-2.18.2 --bowtie2dir bowtie2file --threads 2
+# perl step1_DNase_alignment.pl --inputdir /public/ZhangJinLab/project_enhancer/ncbi-DNase-seq-lufalong --outputdir /public/ZhangJinLab/project_enhancer/DNasefile --indexdir /public/ZhangJinLab/project_erv/refAnno/bowtie2Index/GRCm38 --picarddir /software/picard-2.18.2 --bowtie2dir bowtie2file --threads 2

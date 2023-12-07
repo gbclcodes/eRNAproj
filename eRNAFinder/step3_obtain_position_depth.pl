@@ -36,5 +36,4 @@ foreach my $bamfile (@bamfiles){
 }
 
 # perl step3_obtain_position_depth.pl --infilepath /media/yuhua/yuhua_projects/enhProj/GSRData/RNAseq_GSR --bedfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_annotation_step2.bed --outfilepath /media/yuhua/yuhua_projects/enhProj/ENHData/depthfiles_GSR 
-
 # perl step3_obtain_position_depth.pl --infilepath /media/yuhua/yuhua_projects/enhProj/GSRData/RNAseq_GSR --bedfile /media/yuhua/yuhua_projects/enhProj/GENEData/known_genes.bed --outfilepath /media/yuhua/yuhua_projects/enhProj/GENEData/depthfiles_GSR 

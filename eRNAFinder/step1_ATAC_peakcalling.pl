@@ -46,4 +46,4 @@ foreach my $sample (@samples){
     }
 }
 
-# perl fig1a_step2_ATAC_peakcalling.pl --inputdir /public/ZhangJinLab/project_enhancer/ATACfile/bowtie2file --outputdir /public/ZhangJinLab/project_enhancer/ATACfile/macs2file --mapfile /public/ZhangJinLab/project_enhancer/ATACfile/stringtiefile/ATAC_run2samplename.txt
+# perl step2_ATAC_peakcalling.pl --inputdir /public/ZhangJinLab/project_enhancer/ATACfile/bowtie2file --outputdir /public/ZhangJinLab/project_enhancer/ATACfile/macs2file --mapfile /public/ZhangJinLab/project_enhancer/ATACfile/stringtiefile/ATAC_run2samplename.txt

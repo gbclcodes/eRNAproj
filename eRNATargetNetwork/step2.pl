@@ -66,6 +66,5 @@ foreach my $enhid (keys %enhHash){
 }
 close OUT;
 
-# perl fig3a_step2.pl --enhfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_annotation_step6_GSR_6column.bed --genefile /media/yuhua/yuhua_projects/genomeanno/gencode.vM17.annotation.gff3 --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_GSR.txt
-
-# perl fig3a_step2.pl --enhfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_annotation_step6_XW_6column.bed --genefile /media/yuhua/yuhua_projects/genomeanno/gencode.vM17.annotation.gff3 --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_XW.txt
+# perl step2.pl --enhfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_annotation_step6_GSR_6column.bed --genefile /media/yuhua/yuhua_projects/genomeanno/gencode.vM17.annotation.gff3 --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_GSR.txt
+# perl step2.pl --enhfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_annotation_step6_XW_6column.bed --genefile /media/yuhua/yuhua_projects/genomeanno/gencode.vM17.annotation.gff3 --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_XW.txt

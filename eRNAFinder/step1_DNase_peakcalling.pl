@@ -34,4 +34,4 @@ foreach my $sample (@samples){
     }
 }
 
-# perl fig1a_step2_DNase_peakcalling.pl --inputdir /public/ZhangJinLab/project_enhancer/DNasefile/bowtie2file --outputdir /public/ZhangJinLab/project_enhancer/DNasefile/macs2file
+# perl step2_DNase_peakcalling.pl --inputdir /public/ZhangJinLab/project_enhancer/DNasefile/bowtie2file --outputdir /public/ZhangJinLab/project_enhancer/DNasefile/macs2file

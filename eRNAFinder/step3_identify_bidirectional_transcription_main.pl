@@ -26,5 +26,5 @@ foreach my $infile (@infiles){
 	}
 }
 
-# perl fig1a_step6_identify_two_direction_transcription_main.pl --indir /public/ZhangJinLab/project_enhancer/splitfiles
+# perl step3_identify_two_direction_transcription_main.pl --indir /public/ZhangJinLab/project_enhancer/splitfiles
 

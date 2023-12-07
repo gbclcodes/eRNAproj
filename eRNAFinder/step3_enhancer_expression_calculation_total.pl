@@ -50,4 +50,4 @@ foreach my $sample (@samples){
 	}
 }
 
-# perl enhancer_expression_calculation_GSR_RNAseq.pl --inputdir /media/yuhua/yuhua_projects/enhProj/GSRData/RNAseq_GSR --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData --htseqdir htseqcountfile_GSR --gfffile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_annotation_step4.gff3 --threads 2 
+# perl enhancer_expression_calculation_total.pl --inputdir /media/yuhua/yuhua_projects/enhProj/GSRData/RNAseq_GSR --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData --htseqdir htseqcountfile_GSR --gfffile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_annotation_step4.gff3 --threads 2 

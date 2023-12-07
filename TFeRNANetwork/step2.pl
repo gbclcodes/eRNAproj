@@ -38,5 +38,5 @@ foreach my $element (@array){
 close MOT;
 close OUT;
 
-# perl fig2b_step2.pl --motiffile /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE_non-redundant_pfms_meme.txt --outdir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE
+# perl step2.pl --motiffile /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE_non-redundant_pfms_meme.txt --outdir /media/yuhua/yuhua_projects/enhProj/annodata/JASPAR_CORE
 

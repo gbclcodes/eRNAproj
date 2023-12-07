@@ -40,6 +40,5 @@ foreach my $key (keys %coHash){
 }
 close OUT;
 
-# perl fig3a_step4.pl --coexprfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_coexpr_pairs_GSR_all.txt --posfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_GSR.txt --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_target_pairs_GSR_all.txt
-
-# perl fig3a_step4.pl --coexprfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_coexpr_pairs_XW_all.txt --posfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_XW.txt --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_target_pairs_XW_all.txt
+# perl step4.pl --coexprfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_coexpr_pairs_GSR_all.txt --posfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_GSR.txt --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_target_pairs_GSR_all.txt
+# perl step4.pl --coexprfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_coexpr_pairs_XW_all.txt --posfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_gene_within_5mb_XW.txt --outfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_target_pairs_XW_all.txt

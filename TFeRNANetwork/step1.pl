@@ -97,9 +97,9 @@ foreach my $stagename (keys %stageHash){
 	close FA;
 }
 
-# perl fig2b_step1.pl --genomefile /media/yuhua/yuhua_projects/enhProj/annodata/GRCm38.p6.genome.fa --enhposfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_GSR_clean_td_0.01EPM.txt --highenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_highscores_GSR.txt --medianenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_medianscores_GSR.txt --lowenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_lowscores_GSR.txt --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/GSR 
+# perl step1.pl --genomefile /media/yuhua/yuhua_projects/enhProj/annodata/GRCm38.p6.genome.fa --enhposfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_GSR_clean_td_0.01EPM.txt --highenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_highscores_GSR.txt --medianenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_medianscores_GSR.txt --lowenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_lowscores_GSR.txt --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/GSR 
 
-# perl fig2b_step1.pl --genomefile /media/yuhua/yuhua_projects/enhProj/annodata/GRCm38.p6.genome.fa --enhposfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_XW_clean_td_0.01EPM.txt --highenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_highscores_XW.txt --medianenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_medianscores_XW.txt --lowenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_lowscores_XW.txt --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/XW 
+# perl step1.pl --genomefile /media/yuhua/yuhua_projects/enhProj/annodata/GRCm38.p6.genome.fa --enhposfile /media/yuhua/yuhua_projects/enhProj/ENHData/enh_XW_clean_td_0.01EPM.txt --highenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_highscores_XW.txt --medianenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_medianscores_XW.txt --lowenhjsfile /media/yuhua/yuhua_projects/enhProj/ENHData/enhancer_stage_specific_lowscores_XW.txt --outputdir /media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/XW 
 
 
 

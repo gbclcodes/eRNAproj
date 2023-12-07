@@ -78,4 +78,4 @@ foreach my $sample_p1 (@samples){
     }
 }
 
-# perl fig1a_step1_H3K27ac_aligment.pl --inputdir /public/ZhangJinLab/project_enhancer/H3K27acData --outputdir /public/ZhangJinLab/project_enhancer/H3K27acData --indexdir /media/data/TFChIPseqData/bowtie2index/GRCm38 --picarddir /software/picard-2.18.2 --bowtie2dir bowtie2file --threads 2
+# perl step1_H3K27ac_aligment.pl --inputdir /public/ZhangJinLab/project_enhancer/H3K27acData --outputdir /public/ZhangJinLab/project_enhancer/H3K27acData --indexdir /media/data/TFChIPseqData/bowtie2index/GRCm38 --picarddir /software/picard-2.18.2 --bowtie2dir bowtie2file --threads 2

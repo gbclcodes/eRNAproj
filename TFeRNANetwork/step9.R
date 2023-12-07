@@ -26,7 +26,6 @@ for (tfID in tfIDs){
 }
 write.table(outData,file="/media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/GSR/mememotiffile/TF_enhancer_network_core.txt",row.names=FALSE,col.names=FALSE,quote=FALSE)
 
-
 netData <- read.table(file="/media/yuhua/yuhua_projects/enhProj/ENHData/enh_stage_group_files/XW/mememotiffile/TF_enhancer_network_final.txt",sep=" ",header=FALSE,stringsAsFactors=FALSE)
 outData <- c()
 tfIDs <- unique(netData[,2])
